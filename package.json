@@ -4,7 +4,6 @@
   "description": "Client for roisalen based on backbone and react",
   "main": "index.js",
   "dependencies": {
-    "uniq": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
