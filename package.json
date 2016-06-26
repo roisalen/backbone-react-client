@@ -1,0 +1,23 @@
+{
+  "name": "roisalen-backbone-react",
+  "version": "0.0.0",
+  "description": "Client for roisalen based on backbone and react",
+  "main": "index.js",
+  "dependencies": {
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roisalen/backbone-react-client.git"
+  },
+  "author": "Torkil Vederhus, Stian Lågstad and Christian Strandenæs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roisalen/backbone-react-client/issues"
+  },
+  "homepage": "https://github.com/roisalen/backbone-react-client"
+}
