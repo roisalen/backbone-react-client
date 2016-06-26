@@ -1,5 +1,3 @@
 var Backbone = require('backbone');
 
-
-var Router = Backbone.Router.extend({
-});
+var Router = Backbone.Router.extend({});
